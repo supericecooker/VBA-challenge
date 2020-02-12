@@ -1,3 +1,3 @@
 # VBA-challenge
-trial and error
+challenge
 
